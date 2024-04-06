@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Tobi 👋:
 🤔I'm currently learning C# and the .NET framework<br>🔭Looking for entry level roles in software development<br>
 
 
