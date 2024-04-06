@@ -1,4 +1,7 @@
 # Hi, I'm Tobi 👋:
+# 💫 About Me:
+I'm a recent university and software development bootcamp graduate from London, bursting with enthusiasm to contribute to real world projects. I'm all about hard work, attention to detail, and top-notch organizational skills. My goal is to excel in the Tech industry while honing my programming skills.
+
 🤔I'm currently learning C# and the .NET framework<br>🔭Looking for entry level roles in software development<br>
 
 
